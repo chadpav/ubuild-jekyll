@@ -20,7 +20,7 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: "<strong>Kitchen Wall</strong><br>Shared Lists, Grocery, To Do"
+  headline: "<strong>Kitchen Wall</strong><br>Shared Lists, Groceries, and To Do's"
   content: Introducing Kitchen Wall, a new list maker app for keeping to-do lists
     and getting stuff done with the people you love. Kitchen Wall is the app your
     whole family will actually use.
