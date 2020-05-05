@@ -20,15 +20,13 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: "<strong>Kitchen Wall</strong><br>From grocery shopping to vacations planning,
-    homework to gift lists — people are using Kitchen Wall to keep their life organized."
-  content: Introducing Kitchen Wall, a new list maker app for keeping to-do lists
-    and getting stuff done with the people you love. Kitchen Wall is the app your
-    whole family will actually use.
+  headline: "<strong>Kitchen Wall</strong><br>Shared Lists, Groceries, and To Do's"
+  content: From grocery shopping to vacations planning, homework to gift lists — people
+    are using Kitchen Wall to keep their life organized.
   cta:
     enabled: true
     url: https://join.kitchenwallapp.com/969qPcoLQL
-    button_text: Download
+    button_text: Download the App
   image:
     image: "/uploads/2020/05/05/Kitchen Wall Screenshot 2.png"
     alt_text: Product Shot
