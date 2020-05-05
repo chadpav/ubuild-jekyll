@@ -16,7 +16,7 @@ page_sections:
   - link: "#team"
     link_text: Team
   cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
+    url: https://join.kitchenwallapp.com/969qPcoLQL
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
