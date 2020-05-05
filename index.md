@@ -29,7 +29,7 @@ page_sections:
     url: https://join.kitchenwallapp.com/969qPcoLQL
     button_text: Download
   image:
-    image: "/uploads/2020/05/05/1E42EC2F-54CA-4B94-8670-46E9A0317C33.jpeg"
+    image: "/uploads/2020/05/05/Kitchen Wall screenshot.png"
     alt_text: Product Shot
   background_image: ''
 - template: content-feature
