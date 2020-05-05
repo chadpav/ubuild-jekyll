@@ -28,8 +28,8 @@ page_sections:
     will actually use.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: https://join.kitchenwallapp.com/969qPcoLQL
+    button_text: Download
   image:
     image: "/uploads/2020/05/05/1E42EC2F-54CA-4B94-8670-46E9A0317C33.jpeg"
     alt_text: Product Shot
