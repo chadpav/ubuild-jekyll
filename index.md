@@ -5,7 +5,7 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
+  logo: "/uploads/2020/05/05/1*u_I3FFDOJe7hO0KVSEL9IQ@2x.jpeg"
   navigation:
   - link: "/"
     link_text: Home
@@ -20,17 +20,20 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: "<strong>Kitchen Wall</strong><br>Shared Lists, Grocery, To Do"
+  content: Introducing Kitchen Wall, a new list maker app for keeping to-do lists
+    and getting stuff done with the people you love. Sharing is at the heart of what
+    we do. Whether it's a grocery list, keeping up with the honey-do list, or having
+    your kids manage their own chore list, Kitchen Wall is the app your whole family
+    will actually use.
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/2020/05/05/1E42EC2F-54CA-4B94-8670-46E9A0317C33.jpeg"
     alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: "/uploads/2020/05/05/1*uxcoZpxwq39aXLWwhV6-5A.jpeg"
 - template: content-feature
   block: feature-1
   media_alignment: Left
