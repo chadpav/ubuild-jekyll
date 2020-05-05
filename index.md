@@ -30,7 +30,7 @@ page_sections:
   image:
     image: "/uploads/2020/05/05/Kitchen Wall Screenshot 2.png"
     alt_text: Product Shot
-  background_image: ''
+  background_image: "/uploads/2020/05/05/photo-1515516089376-88db1e26e9c0.jpeg"
 - template: content-feature
   block: feature-1
   media_alignment: Left
