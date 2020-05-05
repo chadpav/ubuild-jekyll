@@ -22,10 +22,8 @@ page_sections:
   block: hero-2
   headline: "<strong>Kitchen Wall</strong><br>Shared Lists, Grocery, To Do"
   content: Introducing Kitchen Wall, a new list maker app for keeping to-do lists
-    and getting stuff done with the people you love. Sharing is at the heart of what
-    we do. Whether it's a grocery list, keeping up with the honey-do list, or having
-    your kids manage their own chore list, Kitchen Wall is the app your whole family
-    will actually use.
+    and getting stuff done with the people you love. Kitchen Wall is the app your
+    whole family will actually use.
   cta:
     enabled: true
     url: https://join.kitchenwallapp.com/969qPcoLQL
