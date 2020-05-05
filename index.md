@@ -33,7 +33,7 @@ page_sections:
   image:
     image: "/uploads/2020/05/05/1E42EC2F-54CA-4B94-8670-46E9A0317C33.jpeg"
     alt_text: Product Shot
-  background_image: "/uploads/2020/05/05/1*uxcoZpxwq39aXLWwhV6-5A.jpeg"
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
