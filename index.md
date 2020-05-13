@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/2020/05/05/1*u_I3FFDOJe7hO0KVSEL9IQ@2x.jpeg"
   navigation:
   - link: "/Posts"
-    link_text: ''
+    link_text: Blog
   - link: "/"
     link_text: Home
   - link: "#features"
