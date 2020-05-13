@@ -7,6 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2020/05/05/1*u_I3FFDOJe7hO0KVSEL9IQ@2x.jpeg"
   navigation:
+  - link: "/Posts"
+    link_text: ''
   - link: "/"
     link_text: Home
   - link: "#features"
