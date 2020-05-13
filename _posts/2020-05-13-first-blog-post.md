@@ -11,5 +11,9 @@ cta:
   enabled: true
   url: ''
   button_text: Download App
+menu:
+  main:
+    weight: 2
+    title: LINK
 
 ---
