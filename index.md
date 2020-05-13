@@ -7,14 +7,12 @@ page_sections:
   block: header-2
   logo: "/uploads/2020/05/05/1*u_I3FFDOJe7hO0KVSEL9IQ@2x.jpeg"
   navigation:
-  - link: "/Posts"
-    link_text: Blog
   - link: "/"
     link_text: Home
   - link: "#features"
     link_text: Features
-  - link: "#pricing"
-    link_text: Pricing
+  - link: "/Posts"
+    link_text: Blog
   - link: "#team"
     link_text: Team
   cta:
